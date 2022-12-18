@@ -58,3 +58,6 @@ remote_theme: samarsault/plainwhite-jekyll
 plugins:
   - jekyll-seo-tag
 #  - jekyll-feed
+
+url: "https://serin-kim.github.io"
+baseurl: ""
