@@ -336,7 +336,7 @@ footer {
   }
 }
 
-p code {
+code {
   font-family: "Consolas", Menlo, monospace;
   line-height: 1.4em;
   tab-size: 4;
@@ -345,6 +345,10 @@ p code {
   border-radius: 7px;
   color: #732bd1;
   background-color: #f4f4f4;
+}
+
+pre code {
+  color: #586e75;
 }
 
 blockquote {
