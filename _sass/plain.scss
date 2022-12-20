@@ -335,3 +335,14 @@ footer {
     border-top: 1px solid #eee;
   }
 }
+
+p code {
+  font-family: "Consolas", Menlo, monospace;
+  line-height: 1.4em;
+  tab-size: 4;
+  padding: 4px 5px 4px 5px;
+  margin: 0 4px 0 4px;
+  border-radius: 7px;
+  color: #732bd1;
+  background-color: #f4f4f4;
+}
