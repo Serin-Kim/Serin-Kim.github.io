@@ -2,7 +2,7 @@
 layout: post
 title: "그림으로 배우는 Http & Network Basic 제1장"
 date: 2023-01-03 10:03:36 +0530
-categories: Book
+categories: Book Network
 ---
 
 책을 읽고 정리합니다.
